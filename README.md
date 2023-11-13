@@ -1,4 +1,4 @@
-# 基于动态定价和Q-learning望约车寻客路线推荐策略研究，论文题目：Seeking based on Dynamic Prices: Higher Earnings and Better Strategies in Ride-on-demand Services。（TITS）
+# 基于动态定价和Q学习的望约车寻客路线推荐研究，论文题目：Seeking based on Dynamic Prices: Higher Earnings and Better Strategies in Ride-on-demand Services。（TITS）
 
 ## 简介
 
