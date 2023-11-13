@@ -1,4 +1,4 @@
-# 概率分布模拟动态定价与Q-learning路线推荐，论文题目：Seeking based on Dynamic Prices: Higher Earnings and Better Strategies in Ride-on-demand Services。（TITS）
+# 基于动态定价和Q-learning望约车寻客路线推荐策略研究，论文题目：Seeking based on Dynamic Prices: Higher Earnings and Better Strategies in Ride-on-demand Services。（TITS）
 
 ## 简介
 
